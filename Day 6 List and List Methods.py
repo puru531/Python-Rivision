@@ -50,5 +50,8 @@ print(tpl)
 #we cannot do slicing in tuple
 list4 = list(tpl) #converting a tuple into a list
 print(list4)
+#Now we can apply all the methods of a list in this
 
-
+#converting list into tuple
+tpll=tuple(list4)
+print(tpll)
