@@ -1,3 +1,3 @@
 
 #Dictionaries and its functions in python
-print("
+print("Hello Puru, Lets learn Dictionary today")
