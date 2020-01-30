@@ -4,8 +4,8 @@
 
 #defining a dictionary
 
-d = {}
-print(type(d))
+dict = {}
+print(type(dict))
 
 d1 = {"Pen":"Ink","Pencil":"Sharpner","Colour":{"Dark":"Balck","Light":"White"}} #We can aso insert a dictionary into a dictionary
 print(d1)
