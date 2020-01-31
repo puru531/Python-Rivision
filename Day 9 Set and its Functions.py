@@ -19,3 +19,19 @@ print(s2)
 #union in sets
 s3 = s1.union(s2)
 print(s3)
+
+#intersection in sets
+s4 = s1.intersection(s2)
+print(s4)
+
+#Finding whether s1 is disjoint of s2 or not
+print(s1.isdisjoint(s2))
+
+print(min(s1))
+print(max(s1))
+print(len(s1))
+
+
+#Removing any element from set
+s1.remove(2)
+print(s1)
