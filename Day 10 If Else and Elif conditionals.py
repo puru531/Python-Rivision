@@ -1,6 +1,6 @@
 #If, else and elif return boolean result as true or false
 
-
+#Program to check if you are eligible for driving licence or not. 
 age = int(input("What is your age? : "))
 if age<5 or age>120:
     print("You are underage or overage.")
