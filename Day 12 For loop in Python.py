@@ -33,9 +33,11 @@ for o in range(1,21):
     print(o, end=" ")
 
 print(" ")
+
 #create a list and print the numbers which is less than 10.
 
 list5 = [5, 9, 7, 5, 48, 54, 84, 51, 8, 5, 14, 8, 51, 4, 48, 7, 8, 45, 8, 4, 5, 8, 5, 7]
 for pq in list5:
     if pq < 10:
         print(pq, end=" ")
+ 
