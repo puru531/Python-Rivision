@@ -1,3 +1,4 @@
+#It executes the condition untill it is true
 i=0
 while (i < 46):
     print(i, end=' ')
